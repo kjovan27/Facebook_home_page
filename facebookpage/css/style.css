@@ -54,6 +54,7 @@ cursor:pointer;
 	top:100px;
 	width:100%;
 	height:645px;
+	margin-top:0px;
 }
 #intro1{
 	top:40px;
@@ -99,24 +100,28 @@ cursor:pointer;
 }
 #namebox{
 	width:200px;
-	height:50px;
-	border-radius:10px/10px;
+	height:30px;
+	border-radius:5px;
 	background:white;
 	padding:10px;
-	font-size:20px;
+	font-size:15px;
+	border-style: none;
+	border:1px solid gray;
 }
 #mailbox{
 	width:400px;
-	height:50px;
-	border-radius:10px/10px;
+	height:30px;
+	border-radius:5px;
 	background:white;
 	padding:10px;
-	font-size:20px;
+	font-size:15px;
+	border-style: none;
+	border:1px solid gray;
 }
 .button2{
 	width:250px;
 	height:40px;
-	top:610px;
+	top:570px;
 	left:700px;
 	background:#1D8348;
 	position:absolute;
